@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Virginia Beach, Virginia with a population of over 459k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Virginia Beach, Virginia, US",
+  "export_job_id": "b9458bda-31f6-486e-b59b-643564608272",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 504092,
+  "location_name": "Virginia Beach",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-virginia-beach-virginia-us-sample-504092",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/504092/beamstation_504092_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_pct": 9.94,
+  "sample_records": 143,
+  "sample_sha256": "b8a35f07b3c432d9a8687bed02b90e82f15072f7ef17779c95ed318e84bbf4a9",
+  "sample_size_bytes": 539508,
+  "total_records": 1438,
+  "updated_at": "2026-04-09T09:45:19.339034+00:00"
+}
