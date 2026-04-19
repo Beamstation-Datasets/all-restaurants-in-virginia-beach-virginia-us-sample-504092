@@ -9,9 +9,9 @@
 | Dataset ID | `504092` |
 | Location | Virginia Beach |
 | Category | Restaurants |
-| Full dataset size | 1,438 records |
-| Free sample size | 143 records (9.94%) |
-| Last export | 2026-04-09T09:45:19.339034+00:00 |
+| Full dataset size | 1,433 records |
+| Free sample size | 143 records (9.98%) |
+| Last export | 2026-04-16T09:41:31.623184+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-virginia-beach-virginia-us-sample-504092/releases/download/sample-latest/beamstation_504092_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
