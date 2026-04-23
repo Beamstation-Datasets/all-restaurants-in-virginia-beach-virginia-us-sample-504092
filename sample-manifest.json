@@ -1,12 +1,12 @@
 {
-  "export_job_id": "503fb6f2-be73-4d7d-9300-fb879eed367a",
+  "export_job_id": "09d9c5d7-5271-4d34-a202-8ef2939aea7a",
   "id_short": 504092,
-  "published_at": "2026-04-19T19:16:33Z",
+  "published_at": "2026-04-23T19:27:58Z",
   "repo_name": "all-restaurants-in-virginia-beach-virginia-us-sample-504092",
   "sample_asset_name": "beamstation_504092_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/504092/beamstation_504092_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 143,
-  "sample_sha256": "9f6f1b9f1c3c94271feeb2a64734913c3e17038fab487be5fef3911b043fcffb",
-  "sample_size_bytes": 539559,
-  "total_records": 1433
+  "sample_records": 84,
+  "sample_sha256": "8519a75754435c4d78dbd73431815257a32c4ca7de1bbbb079c7591dd621510e",
+  "sample_size_bytes": 319493,
+  "total_records": 843
 }
