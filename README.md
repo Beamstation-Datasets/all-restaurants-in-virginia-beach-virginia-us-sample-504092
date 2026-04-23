@@ -1,6 +1,6 @@
 # All Restaurants in Virginia Beach, Virginia, US
 
-> Free BeamStation sample export with 143 rows and masked direct-contact fields.
+> Free BeamStation sample export with 84 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `504092` |
 | Location | Virginia Beach |
 | Category | Restaurants |
-| Full dataset size | 1,433 records |
-| Free sample size | 143 records (9.98%) |
-| Last export | 2026-04-16T09:41:31.623184+00:00 |
+| Full dataset size | 843 records |
+| Free sample size | 84 records (9.96%) |
+| Last export | 2026-04-23T09:38:26.760940+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-virginia-beach-virginia-us-sample-504092/releases/download/sample-latest/beamstation_504092_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
